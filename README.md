@@ -1,6 +1,9 @@
-# simple_todo_app
+# Flutter a Todo App
 
-A new Flutter project.
+A basic Flutter project to help you fluttering!
+
+![image](https://user-images.githubusercontent.com/7344292/125515698-d4adb45d-d10c-446b-9dd7-49273da2bf17.png)
+
 
 ## Getting Started
 
